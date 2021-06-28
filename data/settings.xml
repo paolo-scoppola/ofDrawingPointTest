@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Control_Panel>
+	<param1>0.495</param1>
+	<Blend_Mode>1</Blend_Mode>
+	<Opacity>255</Opacity>
+	<Divisions>12</Divisions>
+	<Point_Size>20</Point_Size>
+	<Depth_Test>0</Depth_Test>
+	<Sort>0</Sort>
+	<Num_Points>32</Num_Points>
+	<Points>1</Points>
+</Control_Panel>
