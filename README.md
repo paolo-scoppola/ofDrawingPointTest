@@ -1,3 +1,4 @@
+![ofDrawingTest](https://user-images.githubusercontent.com/6932431/123671038-211c3200-d83e-11eb-8fa7-dcc769b74307.png)
 # ofDrawingPointTest
 points drawing performance test
 
